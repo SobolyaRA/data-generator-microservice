@@ -1,6 +1,6 @@
 # Data generator microservice
 
-This application produces data and sends it to [Data consumer service](https://github.com/IlyaLisov/data-analyser-microservice) with Apache Kafka.
+This application produces data and sends it to [Data consumer service](https://github.com/SobolyaRA/data-analyzer-microservice) with Apache Kafka.
 
 ### Usage
 
